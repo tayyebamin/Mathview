@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">aJLaTeXMath</string>
+    <string name="app_name">aJLaTeXMath:Tayyeb</string>
     <string name="about_text">
-        Version 1.0\n\n
+        Version 1.1\n\n
         JLaTeXMath Library - Displays LaTeX commands.\n
         Ported by: <a href="mailto:mksmbtrsh@gmail.com">Maksim Bartosh</a>\n\n
 		aJLaTeXMath is an fork with a lot of modifications to support this library in Android OS.\n\n
